@@ -1,0 +1,55 @@
+/*
+Theme Name: Trut
+Description: Creative Fully Responsive HTML/CSS Theme
+Author: Predrag Stojanovic - @pebas
+Author URI: http://themeforest.net/user/pebas/
+Version: 1.0
+*/
+
+/**** Google Font ****/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+/**** Base Style ****/
+@import url('base.css');
+
+/**** Revolution Slider ****/
+@import url('prettyPhoto.css');
+
+/**** Revolution Slider ****/
+@import url('revolution.css');
+
+/**** Revolution Slider ****/
+@import url('flexslider.css');
+
+/**** CHOOSE YOUR FAVORITE COLOR ****/
+
+/* YELLOW */
+@import url('layout.css'); 
+
+/* BLUE 
+@import url('layout_1.css');  */
+
+/* ORANGE 
+@import url('layout_2.css');  */
+
+/* RED 
+@import url('layout_3.css'); */
+
+/* GREEN 
+@import url('layout_4.css');  */
+
+/* PURPLE 
+@import url('layout_5.css'); */
+
+/* PINK 
+@import url('layout_6.css'); */
+
+/* GREY 
+@import url('layout_7.css'); */
+
+/* LIGHT BLUE 
+@import url('layout_8.css'); */
+
+
+
